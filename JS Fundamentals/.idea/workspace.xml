@@ -39,6 +39,13 @@
         <option value="$PROJECT_DIR$/JS Syntax/Leap Year.js" />
         <option value="$PROJECT_DIR$/JS Syntax/Prime Number Checker.js" />
         <option value="$PROJECT_DIR$/JS Syntax/Chessboard.js" />
+        <option value="$PROJECT_DIR$/JS Syntax/Figure of 4 Squares.js" />
+        <option value="$PROJECT_DIR$/JS Syntax/Quadratic Equation.js" />
+        <option value="$PROJECT_DIR$/JS Syntax/Point in Rectangle.js" />
+        <option value="$PROJECT_DIR$/JS Syntax/Distance in 3D.js" />
+        <option value="$PROJECT_DIR$/JS Syntax/Movie Prices.js" />
+        <option value="$PROJECT_DIR$/JS Syntax/Triangle of Dollars.js" />
+        <option value="$PROJECT_DIR$/JS Syntax/Rounding.js" />
       </list>
     </option>
   </component>
@@ -127,12 +134,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516487242621</updated>
-      <workItem from="1516487245542" duration="668000" />
+      <workItem from="1516487245542" duration="1295000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="668000" />
+    <option name="totallyTimeSpent" value="1295000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -265,6 +272,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JS Syntax/Chessboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Syntax/Quadratic Equation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JS Syntax/Prime Number Checker.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -273,10 +296,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS Syntax/Chessboard.js">
+    <entry file="file://$PROJECT_DIR$/JS Syntax/Figure of 4 Squares.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="1" lean-forward="false" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Syntax/Point in Rectangle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Syntax/Distance in 3D.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Syntax/Movie Prices.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="1" lean-forward="false" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Syntax/Triangle of Dollars.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Syntax/Rounding.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
           <folding />
         </state>
       </provider>
