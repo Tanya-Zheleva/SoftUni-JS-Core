@@ -1,10 +1,8 @@
-function printNthElements(input) {
-    let step = input[input.length - 1];
-    input.splice(input.length - 1, 1);
+function solve(arr) {
+    let step = arr.pop();
+    let newArr = arr.filter((e, i) => i % step === 0);
 
-    for (let i = 0; i < input.length; i += step) {
-        console.log(input[i]);
-    }
+    console.log(newArr.join('\n'));
 }
 
-printNthElements([1, 2, 3, 4, 5, 6]);
+solve(['dsa', 'asd', 'test', 'test', 2]);
