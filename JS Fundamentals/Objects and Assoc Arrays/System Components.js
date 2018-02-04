@@ -16,45 +16,28 @@ function solve(input) {
         systems.get(system).get(component).push(subcomponent);
     }
 
-    let systemKeys = Array.from(systems.keys())
-    let systemsArr = [];
+    let sortedSystems = [...systems.keys()].sort((a, b) => sortSystems(a, b));
 
-    for (let key of systemKeys) {
-        let componentsKeys = Array.from(systems.get(key).keys());
+    for (let systemKey of sortedSystems) {
+        console.log(systemKey);
+        let sortedComponents = [...systems.get(systemKey).keys()].sort((a, b) => sortComponents(systemKey, a, b));
 
-        let system = {
-            name: key,
-            components: []
-        };
-
-        for (let componentKey of componentsKeys) {
-            let component = {
-                name: componentKey,
-                subcomponents: systems.get(key).get(componentKey)
-            };
-
-            system.components.push(component);
+        for (let componentKey of sortedComponents) {
+            console.log(`|||${componentKey}`);
+            systems.get(systemKey).get(componentKey).forEach(x => console.log(`||||||${x}`));
         }
-
-        systemsArr.push(system);
     }
 
-    systemsArr = systemsArr.sort((a, b) =>  {
-        if (a.components.length !== b.components.length) {
-            return b.components.length - a.components.length;
+    function sortSystems(a, b) {
+        if (systems.get(a).size !== systems.get(b).size) {
+            return systems.get(b).size - systems.get(a).size;
         }
 
-        return a.name > b.name;
-    });
+        return a > b;
+    }
 
-    for (let system of systemsArr) {
-        console.log(system.name);
-
-        for (let component of system.components.sort((a, b) => b.subcomponents.length - a.subcomponents.length)) {
-            console.log(`|||${component.name}`)
-
-            component.subcomponents.forEach(x => console.log(`||||||${x}`));
-        }
+    function sortComponents(systemKey, a, b) {
+        return systems.get(systemKey).get(b).length - systems.get(systemKey).get(a).length;
     }
 }
 
