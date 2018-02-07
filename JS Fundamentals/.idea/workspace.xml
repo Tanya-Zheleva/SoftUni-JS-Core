@@ -17,22 +17,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="System Components.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Objects and Assoc Arrays/System Components.js">
+    <leaf>
+      <file leaf-file-name="Arithmephile.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exam Preparation/Arithmephile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="52" lean-forward="true" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Unique Sequences.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Objects and Assoc Arrays/Unique Sequences.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -50,15 +40,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Arrays and Matrices/Print Array with Given Delimiter.js" />
-        <option value="$PROJECT_DIR$/Arrays and Matrices/Add and Remove Elements.js" />
-        <option value="$PROJECT_DIR$/Arrays and Matrices/Rotate Array.js" />
-        <option value="$PROJECT_DIR$/Arrays and Matrices/Extract Increasing Subsequence from Array.js" />
-        <option value="$PROJECT_DIR$/Arrays and Matrices/Sort Array.js" />
-        <option value="$PROJECT_DIR$/Arrays and Matrices/Magic Matrices.js" />
-        <option value="$PROJECT_DIR$/Arrays and Matrices/Spiral Matrix.js" />
-        <option value="$PROJECT_DIR$/Arrays and Matrices/Print every N-th Element from an Array.js" />
-        <option value="$PROJECT_DIR$/Arrays and Matrices/Diagonal Attack.js" />
         <option value="$PROJECT_DIR$/Arrays and Matrices/Orbit.js" />
         <option value="$PROJECT_DIR$/Strings and Regular Expressions/Print Letters.js" />
         <option value="$PROJECT_DIR$/Strings and Regular Expressions/Concatenate and Reverse.js" />
@@ -101,6 +82,15 @@
         <option value="$PROJECT_DIR$/Objects and Assoc Arrays/System Components.js" />
         <option value="$PROJECT_DIR$/Objects and Assoc Arrays/Usernames.js" />
         <option value="$PROJECT_DIR$/Objects and Assoc Arrays/Unique Sequences.js" />
+        <option value="$PROJECT_DIR$/Exam Preparation/The Pyramid of King Djoser.js" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Jan's Notation.js" />
+        <option value="$PROJECT_DIR$/Exam Preparation/XML Messenger.js" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Galactic Elections.js" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Format Helper.js" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Spice Must Flow.js" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Build a Wall.js" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Airport.js" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Arithmephile.js" />
       </list>
     </option>
   </component>
@@ -137,6 +127,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,13 +138,12 @@
             <path>
               <item name="JS Fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS Fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="Objects and Assoc Arrays" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam Preparation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -163,6 +153,7 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="last.edited.regexp" value="Sample Text" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -176,26 +167,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.System Components.js">
-    <configuration name="Auto-Engineering Company.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Auto-Engineering Company.js" working-dir="$PROJECT_DIR$/Objects and Assoc Arrays" />
-    <configuration name="Store Catalogue.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Store Catalogue.js" working-dir="$PROJECT_DIR$/Objects and Assoc Arrays" />
-    <configuration name="System Components.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="System Components.js" working-dir="$PROJECT_DIR$/Objects and Assoc Arrays" />
-    <configuration name="Unique Sequences.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Unique Sequences.js" working-dir="$PROJECT_DIR$/Objects and Assoc Arrays" />
-    <configuration name="Usernames.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Usernames.js" working-dir="$PROJECT_DIR$/Objects and Assoc Arrays" />
+  <component name="RunManager" selected="Node.js.Arithmephile.js">
+    <configuration name="Airport.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Airport.js" working-dir="$PROJECT_DIR$/Exam Preparation" />
+    <configuration name="Arithmephile.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Arithmephile.js" working-dir="$PROJECT_DIR$/Exam Preparation" />
+    <configuration name="Build a Wall.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Build a Wall.js" working-dir="$PROJECT_DIR$/Exam Preparation" />
+    <configuration name="Format Helper.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Format Helper.js" working-dir="$PROJECT_DIR$/Exam Preparation" />
+    <configuration name="Spice Must Flow.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Spice Must Flow.js" working-dir="$PROJECT_DIR$/Exam Preparation" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.Store Catalogue.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.Auto-Engineering Company.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.System Components.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.Usernames.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.Unique Sequences.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.Format Helper.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.Spice Must Flow.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.Build a Wall.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.Airport.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.Arithmephile.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.System Components.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.Unique Sequences.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.Usernames.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.Auto-Engineering Company.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.Store Catalogue.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.Arithmephile.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.Airport.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.Build a Wall.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.Spice Must Flow.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.Format Helper.js" />
       </list>
     </recent_temporary>
   </component>
@@ -223,12 +214,15 @@
       <workItem from="1516994769798" duration="5611000" />
       <workItem from="1517563190733" duration="15487000" />
       <workItem from="1517740971180" duration="6454000" />
-      <workItem from="1517752973881" duration="9648000" />
+      <workItem from="1517752973881" duration="10245000" />
+      <workItem from="1517851120407" duration="6132000" />
+      <workItem from="1517938726910" duration="10153000" />
+      <workItem from="1517995292373" duration="7254000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85800000" />
+    <option name="totallyTimeSpent" value="109936000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -239,11 +233,11 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24188311" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19968304" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25515056" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3977813" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30269414" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -261,75 +255,19 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="12" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Exam Preparation/Arithmephile.js</url>
+          <line>4</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="15" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Arrays and Matrices/Add and Remove Elements.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays and Matrices/Rotate Array.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays and Matrices/Extract Increasing Subsequence from Array.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays and Matrices/Sort Array.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays and Matrices/Magic Matrices.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays and Matrices/Print every N-th Element from an Array.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays and Matrices/Spiral Matrix.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="74" column="21" lean-forward="true" selection-start-line="72" selection-start-column="3" selection-end-line="74" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays and Matrices/Diagonal Sums.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays and Matrices/Orbit.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Arrays and Matrices/Diagonal Attack.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="353">
@@ -520,14 +458,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Objects and Assoc Arrays/JSON to HTML Table.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-97">
-          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Objects and Assoc Arrays/Towns to JSON.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -588,7 +518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="43" lean-forward="true" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -596,7 +525,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -604,22 +532,81 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="28" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Objects and Assoc Arrays/System Components.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="52" lean-forward="false" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Objects and Assoc Arrays/Unique Sequences.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/The Pyramid of King Djoser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="67" lean-forward="true" selection-start-line="31" selection-start-column="67" selection-end-line="31" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Jan's Notation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="44" column="17" lean-forward="true" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Objects and Assoc Arrays/JSON to HTML Table.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="41" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Objects and Assoc Arrays/System Components.js">
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Format Helper.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="52" lean-forward="true" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+        <state relative-caret-position="221">
+          <caret line="13" column="45" lean-forward="false" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Galactic Elections.js" />
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Spice Must Flow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/XML Messenger.js" />
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Build a Wall.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Airport.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="62" column="9" lean-forward="false" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Arithmephile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="1" />
           <folding />
         </state>
       </provider>
