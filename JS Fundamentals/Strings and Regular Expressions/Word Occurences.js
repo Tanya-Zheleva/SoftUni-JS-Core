@@ -1,4 +1,4 @@
-function countOccurences(text, word) {
+function countOccurrences(text, word) {
     let pattern = `\\b(${word})\\b`;
     let regex = new RegExp(pattern, "gi");
     let match = regex.exec(text);
@@ -12,4 +12,4 @@ function countOccurences(text, word) {
     return found;
 }
 
-console.log(countOccurences('The waterfall was so high, that the child couldn’t see its peak.', 'the'));
+console.log(countOccurrences('The waterfall was so high, that the child couldn’t see its peak.', 'the'));
