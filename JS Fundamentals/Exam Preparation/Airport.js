@@ -1,78 +1,67 @@
-function solve(recordOfPlanes) {
-    let planesLanded = new Map();
-    let townAndPassengers = new Map();
-    let planeAndCity = new Map();
+function solve(input) {
+    let planes = new Set();
+    let towns = new Map();
 
-    for (let currentPlane of recordOfPlanes) {
-        let [plane, town, passengers, condition] = currentPlane.split(' ');
+    for (let token of input) {
+        let [planeId, town, passengers, action] = token.split(/\s/g);
+        passengers = Number(passengers);
 
-        if (!planesLanded.has(plane) && condition !== 'depart') {
-            planesLanded.set(plane, condition);
-        } else {
-            if ((planesLanded.get(plane) === 'land' && condition === 'depart') ||
-                (planesLanded.get(plane) === 'depart' && condition === 'land')) {
-                planesLanded.set(plane, condition);
-            } else {
-                continue;
+        if (action === 'depart') {
+            if (planes.has(planeId)) {
+                planes.delete(planeId);
+
+                if (!towns.has(town)) {
+                    towns.set(town, {arrivals: 0, departures: 0, planes: new Set()});
+                }
+
+                towns.get(town).departures += passengers;
+                towns.get(town).planes.add(planeId);
             }
         }
 
-        if (!townAndPassengers.has(town)) {
-            if (planesLanded.get(plane) === 'land') {
-                townAndPassengers.set(town, {arrivals: Number(passengers), departures: 0});
-            } else if (planesLanded.get(plane) === 'depart') {
-                townAndPassengers.set(town, {arrivals: 0, departures: Number(passengers)});
-            }
+        if (action === 'land') {
+            if (!planes.has(planeId)) {
+                planes.add(planeId);
 
-        } else {
-            if (planesLanded.get(plane) === 'land') {
-                let arrivalsOldValue = townAndPassengers.get(town).arrivals;
-                let departureOldValue = townAndPassengers.get(town).departures;
+                if (!towns.has(town)) {
+                    towns.set(town, {arrivals: 0, departures: 0, planes: new Set()});
+                }
 
-                townAndPassengers.set(town, {
-                    arrivals: Number(passengers) + arrivalsOldValue,
-                    departures: departureOldValue
-                })
-            } else if (planesLanded.get(plane) === 'depart') {
-                let arrivalsOldValue = townAndPassengers.get(town).arrivals;
-                let departureOldValue = townAndPassengers.get(town).departures;
-
-                townAndPassengers.set(town, {
-                    arrivals: arrivalsOldValue,
-                    departures: departureOldValue + Number(passengers)
-                })
+                towns.get(town).arrivals += passengers;
+                towns.get(town).planes.add(planeId);
             }
         }
-
-        if (!planeAndCity.has(plane)) {
-            planeAndCity.set(plane, new Set());
-        }
-        planeAndCity.get(plane).add(town);
     }
+
+    let sortedPlanes = [...planes].sort((a, b) => {
+        return a.localeCompare(b);
+    });
 
     console.log('Planes left:');
-    for (let [plane, condition] of [...planesLanded].sort((p1, p2) => p1[0].localeCompare(p2[0]))) {
-        if (condition === 'land') {
-            console.log(`- ${plane}`);
-        }
+    for (let plane of sortedPlanes) {
+        console.log(`- ${plane}`);
     }
-    for (let [town, passengers] of [...townAndPassengers].sort(function (a, b) {
-        if (b[1].arrivals > a[1].arrivals) return 1;
-        if (b[1].arrivals < a[1].arrivals) return -1;
+
+    let sortedTowns = [...towns].sort((a, b) => {
+        let firstArrivals = a[1].arrivals;
+        let secondArrivals = b[1].arrivals;
+
+        if (firstArrivals !== secondArrivals) {
+            return secondArrivals - firstArrivals;
+        }
+
         return a[0].localeCompare(b[0]);
-    })) {
-        console.log(town);
-        console.log(`Arrivals: ${passengers.arrivals}`);
-        console.log(`Departures: ${passengers.departures}`);
+    });
+
+    for (let town of sortedTowns) {
+        console.log(town[0]);
+        console.log(`Arrivals: ${town[1].arrivals}`);
+        console.log(`Departures: ${town[1].departures}`);
         console.log('Planes:');
 
-        for (let [plane, city] of [...planeAndCity].sort(function (a, b) {
-            return a[0].toLowerCase().localeCompare(b[0].toLowerCase());
-        })) {
-            if (city.has(town)) {
-                console.log(`-- ${plane}`);
-            }
-        }
+        let townPlanes = town[1].planes;
+        [...townPlanes].sort((a, b) => a.localeCompare(b))
+            .forEach(x => console.log(`-- ${x}`));
     }
 }
 
