@@ -29,10 +29,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Strings and Regular Expressions/Count Occurences.js" />
-        <option value="$PROJECT_DIR$/Strings and Regular Expressions/Extract Text.js" />
-        <option value="$PROJECT_DIR$/Strings and Regular Expressions/Aggregate Table.js" />
-        <option value="$PROJECT_DIR$/Strings and Regular Expressions/Restaurant Bill.js" />
         <option value="$PROJECT_DIR$/Strings and Regular Expressions/Usernames.js" />
         <option value="$PROJECT_DIR$/Strings and Regular Expressions/Censorship.js" />
         <option value="$PROJECT_DIR$/Strings and Regular Expressions/Escaping.js" />
@@ -80,6 +76,10 @@
         <option value="$PROJECT_DIR$/Exam Preparation/Radical Marketing.js" />
         <option value="$PROJECT_DIR$/Exam Preparation/Rosetta Stone.js" />
         <option value="$PROJECT_DIR$/Exam Preparation/Airport.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals Exam 11 Feb/Bitcoin Mining.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals Exam 11 Feb/Air Pollution.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals Exam 11 Feb/Game of Epicness.js" />
+        <option value="$PROJECT_DIR$/JS Fundamentals Exam 11 Feb/Survey Parser.js" />
       </list>
     </option>
   </component>
@@ -116,7 +116,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -128,17 +127,13 @@
             <path>
               <item name="JS Fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS Fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam Preparation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS Fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS Fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="Strings and Regular Expressions" type="462c0819:PsiDirectoryNode" />
+              <item name="JS Fundamentals Exam 11 Feb" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -161,26 +156,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Airport.js">
+  <component name="RunManager" selected="Node.js.Game of Epicness.js">
+    <configuration name="Air Pollution.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Air Pollution.js" working-dir="$PROJECT_DIR$/JS Fundamentals Exam 11 Feb" />
     <configuration name="Airport.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Airport.js" working-dir="$PROJECT_DIR$/Exam Preparation" />
-    <configuration name="Arithmephile.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Arithmephile.js" working-dir="$PROJECT_DIR$/Exam Preparation" />
-    <configuration name="Radical Marketing.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Radical Marketing.js" working-dir="$PROJECT_DIR$/Exam Preparation" />
-    <configuration name="Rosetta Stone.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Rosetta Stone.js" working-dir="$PROJECT_DIR$/Exam Preparation" />
-    <configuration name="Spy Master.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Spy Master.js" working-dir="$PROJECT_DIR$/Exam Preparation" />
+    <configuration name="Bitcoin Mining.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Bitcoin Mining.js" working-dir="$PROJECT_DIR$/JS Fundamentals Exam 11 Feb" />
+    <configuration name="Game of Epicness.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Game of Epicness.js" working-dir="$PROJECT_DIR$/JS Fundamentals Exam 11 Feb" />
+    <configuration name="Survey Parser.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Survey Parser.js" working-dir="$PROJECT_DIR$/JS Fundamentals Exam 11 Feb" />
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Node.js.Airport.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.Arithmephile.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.Spy Master.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.Radical Marketing.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.Rosetta Stone.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.Bitcoin Mining.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.Air Pollution.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.Game of Epicness.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.Survey Parser.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.Airport.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.Rosetta Stone.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.Radical Marketing.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.Spy Master.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.Arithmephile.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.Game of Epicness.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.Survey Parser.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.Air Pollution.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.Bitcoin Mining.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.Airport.js" />
       </list>
     </recent_temporary>
   </component>
@@ -215,22 +210,23 @@
       <workItem from="1518038368284" duration="4257000" />
       <workItem from="1518206355718" duration="11352000" />
       <workItem from="1518273343167" duration="4110000" />
+      <workItem from="1518356530710" duration="17231000" />
+      <workItem from="1518632586713" duration="249000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130253000" />
+    <option name="totallyTimeSpent" value="147733000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20204978" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20204978" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35974643" sideWeight="0.4633968" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11251981" sideWeight="0.5366032" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22187005" sideWeight="0.5366032" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -240,6 +236,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -263,34 +260,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Objects and Assoc Arrays/Extract Unique Words.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="70" lean-forward="false" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Objects and Assoc Arrays/Count Words in Text.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Objects and Assoc Arrays/Count Words With Map.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Objects and Assoc Arrays/Score to HTML.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Objects and Assoc Arrays/Towns to JSON.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -600,7 +569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -608,6 +576,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals Exam 11 Feb/Bitcoin Mining.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals Exam 11 Feb/Air Pollution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="77" column="1" lean-forward="true" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals Exam 11 Feb/Game of Epicness.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="42" lean-forward="false" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Fundamentals Exam 11 Feb/Survey Parser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="97" lean-forward="false" selection-start-line="4" selection-start-column="97" selection-end-line="4" selection-end-column="97" />
           <folding />
         </state>
       </provider>
