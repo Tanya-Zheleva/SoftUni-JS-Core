@@ -13,28 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="distanceConverter.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DOM Manipulation/Distance Converter/distanceConverter.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="33" column="6" lean-forward="true" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="distanceConverter.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DOM Manipulation/Distance Converter/distanceConverter.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -80,6 +59,10 @@
         <option value="$PROJECT_DIR$/DOM Manipulation/Time Converter/timeConverter.js" />
         <option value="$PROJECT_DIR$/DOM Manipulation/Distance Converter/distanceConverter.html" />
         <option value="$PROJECT_DIR$/DOM Manipulation/Distance Converter/distanceConverter.js" />
+        <option value="$PROJECT_DIR$/jQuery Library/Text from List/textFromList.html" />
+        <option value="$PROJECT_DIR$/jQuery Library/Text from List/textFromList.js" />
+        <option value="$PROJECT_DIR$/jQuery Library/Search in List/searchInList.html" />
+        <option value="$PROJECT_DIR$/jQuery Library/Search in List/searchInList.js" />
       </list>
     </option>
   </component>
@@ -116,7 +99,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -128,18 +110,19 @@
             <path>
               <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="DOM Manipulation" type="462c0819:PsiDirectoryNode" />
+              <item name="jQuery Library" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="DOM Manipulation" type="462c0819:PsiDirectoryNode" />
-              <item name="Distance Converter" type="462c0819:PsiDirectoryNode" />
+              <item name="jQuery Library" type="462c0819:PsiDirectoryNode" />
+              <item name="Search in List" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -147,9 +130,18 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JS Core\SoftUni-JS-Core\JS Advanced\jQuery Library" />
+      <recent name="E:\JS Core\SoftUni-JS-Core\JS Advanced\jQuery Library\Text from List" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JS Core\SoftUni-JS-Core\JS Advanced\jQuery Library" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -163,26 +155,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.distanceConverter.html">
-    <configuration name="Notification.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS Advanced/DOM Manipulation/Notification.html" />
+  <component name="RunManager" selected="JavaScript Debug.searchInList.html">
     <configuration name="distanceConverter.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS Advanced/DOM Manipulation/Distance Converter/distanceConverter.html" />
-    <configuration name="timeConverter.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS Advanced/DOM Manipulation/Time Converter/timeConverter.html" />
-    <configuration name="distanceConverter.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="distanceConverter.js" working-dir="$PROJECT_DIR$/DOM Manipulation/Distance Converter" />
-    <configuration name="timeConverter.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="timeConverter.js" working-dir="$PROJECT_DIR$/DOM Manipulation/Time Converter" />
+    <configuration name="searchInList.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS Advanced/jQuery Library/Search in List/searchInList.html" />
+    <configuration name="textFromList.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS Advanced/jQuery Library/Text from List/textFromList.html" />
+    <configuration name="searchInList.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="searchInList.js" working-dir="$PROJECT_DIR$/jQuery Library/Search in List" />
+    <configuration name="textFromList.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="textFromList.js" working-dir="$PROJECT_DIR$/jQuery Library/Text from List" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Notification.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.timeConverter.html" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.timeConverter.js" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.distanceConverter.html" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.distanceConverter.js" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.distanceConverter.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.textFromList.html" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.textFromList.js" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.searchInList.html" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.searchInList.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.distanceConverter.html" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.distanceConverter.js" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.timeConverter.html" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.timeConverter.js" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Notification.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.searchInList.html" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.searchInList.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.textFromList.js" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.textFromList.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.distanceConverter.html" />
       </list>
     </recent_temporary>
   </component>
@@ -202,23 +194,23 @@
       <workItem from="1518632811195" duration="4439000" />
       <workItem from="1518801838836" duration="11211000" />
       <workItem from="1518976523446" duration="7082000" />
-      <workItem from="1519071614625" duration="4833000" />
+      <workItem from="1519071614625" duration="4851000" />
+      <workItem from="1519146219352" duration="6590000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27565000" />
+    <option name="totallyTimeSpent" value="34173000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09508716" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.109350234" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -243,6 +235,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DOM Manipulation/Distance Converter/distanceConverter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="6" lean-forward="true" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DOM Manipulation/Distance Converter/distanceConverter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DOM Manipulation/Mouse Gradient/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -417,7 +425,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="283">
           <caret line="35" column="52" lean-forward="true" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -425,7 +432,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -433,7 +439,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="413">
           <caret line="71" column="5" lean-forward="true" selection-start-line="61" selection-start-column="3" selection-end-line="71" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -441,20 +446,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DOM Manipulation/Time Converter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/DOM Manipulation/Time Converter.html" />
     <entry file="file://$PROJECT_DIR$/DOM Manipulation/Time Converter/timeConverter.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
@@ -471,18 +466,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DOM Manipulation/Distance Converter/distanceConverter.html">
+    <entry file="file://$PROJECT_DIR$/DOM Manipulation/Distance Converter/distanceConverter.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="33" column="6" lean-forward="true" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+        <state relative-caret-position="238">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DOM Manipulation/Distance Converter/distanceConverter.js">
+    <entry file="file://$USER_HOME$/Desktop/jquery-3.3.1.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jQuery Library/jquery-3.3.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DOM Manipulation/Distance Converter/distanceConverter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="6" lean-forward="false" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jQuery Library/Text from List/textFromList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jQuery Library/Text from List/textFromList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jQuery Library/Search in List/searchInList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jQuery Library/Search in List/searchInList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
           <folding />
         </state>
       </provider>
