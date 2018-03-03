@@ -5,9 +5,9 @@ function solve(name, age, weight, height) {
 
     if (bmi < 18.5) {
         status = 'underweight';
-    } else if (bmi >= 18.5 && bmi < 25) {
+    } else if (bmi < 25) {
         status = 'normal';
-    } else if (bmi >= 25 && bmi < 30) {
+    } else if (bmi < 30) {
         status = 'overweight';
     } else {
         status = 'obese';

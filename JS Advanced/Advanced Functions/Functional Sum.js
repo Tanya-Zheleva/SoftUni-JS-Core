@@ -1,15 +1,14 @@
-(function functionalSum() {
+let solve = (function functionalSum() {
     let sum = 0;
 
-    function add(number) {
+    return function add(number) {
         sum += number;
+        add.toString = function () {
+            return sum;
+        };
 
         return add;
     }
+})();
 
-    add.toString = function () {
-        return sum;
-    };
-
-    return add;
-}());
+console.log(solve(1)(6)(-3).toString());
