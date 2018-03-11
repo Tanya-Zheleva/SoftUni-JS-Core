@@ -17,28 +17,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="armageDOM.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unit Testing/ArmageDOM/armageDOM.js">
+      <file leaf-file-name="form.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classes and Members/Custom Form/form.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            <state relative-caret-position="238">
+              <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="armageDOMTests.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Unit Testing/ArmageDOM/test/armageDOMTests.js">
+      <file leaf-file-name="form.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Classes and Members/Custom Form/form.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="40" column="42" lean-forward="false" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
-              <folding>
-                <marker date="1520450897989" expanded="true" signature="271:579" ph="..." />
-                <marker date="1520450897989" expanded="true" signature="289:571" ph="..." />
-                <marker date="1520450897989" expanded="true" signature="321:365" ph="..." />
-                <marker date="1520450897989" expanded="true" signature="390:426" ph="..." />
-                <marker date="1520450897989" expanded="true" signature="451:564" ph="..." />
-              </folding>
+            <state relative-caret-position="1139">
+              <caret line="91" column="18" lean-forward="true" selection-start-line="91" selection-start-column="18" selection-end-line="91" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -48,8 +42,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -62,24 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DOM Manipulation/Sum Numbers/sumNumbers.html" />
-        <option value="$PROJECT_DIR$/DOM Manipulation/Collect List/collectList.js" />
-        <option value="$PROJECT_DIR$/DOM Manipulation/Collect List/collectList.html" />
-        <option value="$PROJECT_DIR$/Advanced Functions/Functional Sum.js" />
-        <option value="$PROJECT_DIR$/Advanced Functions/Personal BMI.js" />
-        <option value="$PROJECT_DIR$/Advanced Functions/Vector Math.js" />
-        <option value="$PROJECT_DIR$/Advanced Functions/Breakfast Robot.js" />
-        <option value="$PROJECT_DIR$/Advanced Functions/Monkey Patcher.js" />
-        <option value="$PROJECT_DIR$/Object Composition/Order Rectangles.js" />
-        <option value="$PROJECT_DIR$/Object Composition/Fibonacci.js" />
-        <option value="$PROJECT_DIR$/Object Composition/List Processor.js" />
-        <option value="$PROJECT_DIR$/Object Composition/Object Inheritance.js" />
-        <option value="$PROJECT_DIR$/Object Composition/Sum/sum.html" />
-        <option value="$PROJECT_DIR$/Object Composition/Sum/sum.js" />
-        <option value="$PROJECT_DIR$/Object Composition/Array extension.js" />
-        <option value="$PROJECT_DIR$/Object Composition/Construction Crew.js" />
-        <option value="$PROJECT_DIR$/Object Composition/Car Factory.js" />
-        <option value="$PROJECT_DIR$/Object Composition/String extension.js" />
         <option value="$PROJECT_DIR$/Object Composition/DOM Highlighter/domHighlighter.css" />
         <option value="$PROJECT_DIR$/Object Composition/DOM Highlighter/domHighlighter.html" />
         <option value="$PROJECT_DIR$/Object Composition/Extensible Object.js" />
@@ -113,6 +89,24 @@
         <option value="$PROJECT_DIR$/Unit Testing/Shared Object/test/sharedObjectTests.js" />
         <option value="$PROJECT_DIR$/Unit Testing/ArmageDOM/armageDOM.js" />
         <option value="$PROJECT_DIR$/Unit Testing/ArmageDOM/test/armageDOMTests.js" />
+        <option value="$PROJECT_DIR$/Classes and Members/rectangleClass.js" />
+        <option value="$PROJECT_DIR$/Classes and Members/personClass.js" />
+        <option value="$PROJECT_DIR$/Classes and Members/getPersons.js" />
+        <option value="$PROJECT_DIR$/Classes and Members/circle.js" />
+        <option value="$PROJECT_DIR$/Classes and Members/pointDistance.js" />
+        <option value="$PROJECT_DIR$/Classes and Members/cards.js" />
+        <option value="$PROJECT_DIR$/Classes and Members/dataClass.js" />
+        <option value="$PROJECT_DIR$/Classes and Members/tickets.js" />
+        <option value="$PROJECT_DIR$/Classes and Members/Unity.js" />
+        <option value="$PROJECT_DIR$/Classes and Members/unity.js" />
+        <option value="$PROJECT_DIR$/Classes and Members/lengthLimit.js" />
+        <option value="$PROJECT_DIR$/Classes and Members/sortedList.js" />
+        <option value="$PROJECT_DIR$/Classes and Members/instanceValidation.js" />
+        <option value="$PROJECT_DIR$/Classes and Members/extensibleClass.js" />
+        <option value="$PROJECT_DIR$/Classes and Members/View Model/viewModel.html" />
+        <option value="$PROJECT_DIR$/Classes and Members/View Model/viewModel.js" />
+        <option value="$PROJECT_DIR$/Classes and Members/Custom Form/form.html" />
+        <option value="$PROJECT_DIR$/Classes and Members/Custom Form/form.js" />
       </list>
     </option>
   </component>
@@ -152,7 +146,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,19 +156,20 @@
             <path>
               <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit Testing" type="462c0819:PsiDirectoryNode" />
+              <item name="Classes and Members" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit Testing" type="462c0819:PsiDirectoryNode" />
-              <item name="ArmageDOM" type="462c0819:PsiDirectoryNode" />
+              <item name="Classes and Members" type="462c0819:PsiDirectoryNode" />
+              <item name="View Model" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -214,12 +208,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.ArmageDOM Tests">
-    <configuration name="dom-search.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS Advanced/jQuery Library/DOM Search/dom-search.html" />
-    <configuration name="Shared Object Tests" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="sharedObjectTests.js" working-dir="$PROJECT_DIR$/Unit Testing/Shared Object/test" />
-    <configuration name="Sub Sum.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Sub Sum.js" working-dir="$PROJECT_DIR$/Unit Testing" />
-    <configuration name="mathEnforcerTests.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="mathEnforcerTests.js" working-dir="$PROJECT_DIR$/Unit Testing/Math Enforcer/test" />
-    <configuration name="sharedObject.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="sharedObject.js" working-dir="$PROJECT_DIR$/Unit Testing/Shared Object" />
+  <component name="RunManager" selected="JavaScript Debug.viewModel.html">
+    <configuration name="viewModel.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS Advanced/Classes and Members/View Model/viewModel.html" />
+    <configuration name="extensibleClass.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="extensibleClass.js" working-dir="$PROJECT_DIR$/Classes and Members" />
+    <configuration name="instanceValidation.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="instanceValidation.js" working-dir="$PROJECT_DIR$/Classes and Members" />
+    <configuration name="lengthLimit.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="lengthLimit.js" working-dir="$PROJECT_DIR$/Classes and Members" />
+    <configuration name="sortedList.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="sortedList.js" working-dir="$PROJECT_DIR$/Classes and Members" />
     <configuration name="ArmageDOM Tests" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -233,19 +227,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Mocha.ArmageDOM Tests" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.dom-search.html" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.mathEnforcerTests.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.Shared Object Tests" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.Sub Sum.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.sharedObject.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.lengthLimit.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.sortedList.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.instanceValidation.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.extensibleClass.js" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.viewModel.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.Shared Object Tests" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.sharedObject.js" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.dom-search.html" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.Sub Sum.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.mathEnforcerTests.js" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.viewModel.html" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.extensibleClass.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.instanceValidation.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.sortedList.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.lengthLimit.js" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +276,9 @@
       <workItem from="1520364459947" duration="9640000" />
       <workItem from="1520425097825" duration="717000" />
       <workItem from="1520426747997" duration="3827000" />
-      <workItem from="1520447581756" duration="3303000" />
+      <workItem from="1520447581756" duration="3661000" />
+      <workItem from="1520688576594" duration="4637000" />
+      <workItem from="1520790244715" duration="8480000" />
     </task>
     <servers />
   </component>
@@ -319,7 +315,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163401000" />
+    <option name="totallyTimeSpent" value="176876000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -332,24 +328,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2373512" sideWeight="0.49122807" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.49702382" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24881141" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23848684" sideWeight="0.5089286" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19281046" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" x="30" y="370" width="1344" height="151" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23848684" sideWeight="0.49107143" order="2" side_tool="false" content_ui="tabs" x="30" y="370" width="1344" height="151" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31578946" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2373512" sideWeight="0.50877196" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19968304" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32401314" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -387,152 +382,11 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="18" />
+      <option name="time" value="21" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Advanced Functions/Monkey Patcher.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object Composition/Order Rectangles.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object Composition/Fibonacci.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object Composition/Object Inheritance.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object Composition/Sum/jquery-3.3.1.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced Functions/Next Article/next-article.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jQuery Library/Link Buttons/linkButtons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object Composition/Sum/sum.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object Composition/Sum/sum.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object Composition/Array extension.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="46" column="5" lean-forward="true" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object Composition/String extension.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="43" column="34" lean-forward="true" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object Composition/List Processor.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object Composition/DOM Highlighter/jquery-3.3.1.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object Composition/DOM Highlighter/domHighlighter.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="46" column="10" lean-forward="false" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object Composition/Construction Crew.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="76" lean-forward="true" selection-start-line="10" selection-start-column="76" selection-end-line="10" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object Composition/Car Factory.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object Composition/Extensible Object.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object Composition/Sorted List.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object Composition/DOM Highlighter/domTraversal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object Composition/DOM Highlighter/domHighlighter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="49" column="36" lean-forward="false" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Unit Testing/Playing Cards.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -706,6 +560,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Unit Testing/ArmageDOM/test/armageDOMTests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="40" column="48" lean-forward="false" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
+          <folding>
+            <marker date="1520450897989" expanded="true" signature="271:579" ph="..." />
+            <marker date="1520450897989" expanded="true" signature="289:571" ph="..." />
+            <marker date="1520450897989" expanded="true" signature="321:365" ph="..." />
+            <marker date="1520450897989" expanded="true" signature="390:426" ph="..." />
+            <marker date="1520450897989" expanded="true" signature="451:564" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Unit Testing/ArmageDOM/armageDOM.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -714,17 +582,163 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Unit Testing/ArmageDOM/test/armageDOMTests.js">
+    <entry file="file://$PROJECT_DIR$/Classes and Members/rectangleClass.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="40" column="42" lean-forward="false" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
-          <folding>
-            <marker date="1520450897989" expanded="true" signature="271:579" ph="..." />
-            <marker date="1520450897989" expanded="true" signature="289:571" ph="..." />
-            <marker date="1520450897989" expanded="true" signature="321:365" ph="..." />
-            <marker date="1520450897989" expanded="true" signature="390:426" ph="..." />
-            <marker date="1520450897989" expanded="true" signature="451:564" ph="..." />
-          </folding>
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes and Members/getPersons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes and Members/personClass.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="64" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes and Members/circle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes and Members/pointDistance.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes and Members/cards.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="711">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes and Members/dataClass.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes and Members/tickets.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes and Members/unity.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes and Members/lengthLimit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object Composition/Object Inheritance.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-401">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object Composition/Sorted List.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="23" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes and Members/sortedList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes and Members/instanceValidation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="65" column="32" lean-forward="false" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes and Members/extensibleClass.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object Composition/Extensible Object.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="14" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes and Members/View Model/viewModel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="60" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes and Members/Custom Form/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes and Members/View Model/viewModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes and Members/Custom Form/form.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="91" column="18" lean-forward="true" selection-start-line="91" selection-start-column="18" selection-end-line="91" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
