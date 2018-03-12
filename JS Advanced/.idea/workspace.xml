@@ -17,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="classHierarchy.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Prototype Chain/classHierarchy.js">
+      <file leaf-file-name="posts.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Prototype Chain/posts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+            <state relative-caret-position="323">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -46,9 +46,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Object Composition/DOM Highlighter/domTraversal.js" />
-        <option value="$PROJECT_DIR$/Unit Testing/Sub Sum.js" />
-        <option value="$PROJECT_DIR$/Unit Testing/Playing Cards.js" />
         <option value="$PROJECT_DIR$/Unit Testing/Deck of Cards.js" />
         <option value="$PROJECT_DIR$/Unit Testing/sum-nums.js" />
         <option value="$PROJECT_DIR$/Unit Testing/test/sum-nums-mocha-tests.js" />
@@ -97,6 +94,9 @@
         <option value="$PROJECT_DIR$/Prototype Chain/inheritingToString.js" />
         <option value="$PROJECT_DIR$/Prototype Chain/extendingPrototype.js" />
         <option value="$PROJECT_DIR$/Prototype Chain/classHierarchy.js" />
+        <option value="$PROJECT_DIR$/Prototype Chain/balloons.js" />
+        <option value="$PROJECT_DIR$/Prototype Chain/people.js" />
+        <option value="$PROJECT_DIR$/Prototype Chain/posts.js" />
       </list>
     </option>
   </component>
@@ -192,12 +192,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.classHierarchy.js">
-    <configuration name="viewModel.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS Advanced/Classes and Members/View Model/viewModel.html" />
+  <component name="RunManager" selected="Node.js.posts.js">
+    <configuration name="balloons.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="balloons.js" working-dir="$PROJECT_DIR$/Prototype Chain" />
     <configuration name="classHierarchy.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="classHierarchy.js" working-dir="$PROJECT_DIR$/Prototype Chain" />
     <configuration name="extendingPrototype.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="extendingPrototype.js" working-dir="$PROJECT_DIR$/Prototype Chain" />
     <configuration name="inheritingToString.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="inheritingToString.js" working-dir="$PROJECT_DIR$/Prototype Chain" />
-    <configuration name="personAndTeacher.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="personAndTeacher.js" working-dir="$PROJECT_DIR$/Prototype Chain" />
+    <configuration name="posts.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="posts.js" working-dir="$PROJECT_DIR$/Prototype Chain" />
     <configuration name="ArmageDOM Tests" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -211,19 +211,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Mocha.ArmageDOM Tests" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.viewModel.html" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.personAndTeacher.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.inheritingToString.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.extendingPrototype.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.classHierarchy.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.inheritingToString.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.extendingPrototype.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.classHierarchy.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.balloons.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.posts.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.classHierarchy.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.extendingPrototype.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.inheritingToString.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.personAndTeacher.js" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.viewModel.html" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.posts.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.balloons.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.classHierarchy.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.extendingPrototype.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.inheritingToString.js" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +263,7 @@
       <workItem from="1520447581756" duration="3661000" />
       <workItem from="1520688576594" duration="4637000" />
       <workItem from="1520790244715" duration="8480000" />
-      <workItem from="1520881501309" duration="4733000" />
+      <workItem from="1520881501309" duration="8687000" />
     </task>
     <servers />
   </component>
@@ -300,7 +300,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="181609000" />
+    <option name="totallyTimeSpent" value="185563000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -313,14 +313,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2373512" sideWeight="0.49122807" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.49702382" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23848684" sideWeight="0.5089286" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08223684" sideWeight="0.49107143" order="2" side_tool="false" content_ui="tabs" x="30" y="370" width="1344" height="151" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.054276317" sideWeight="0.49107143" order="2" side_tool="false" content_ui="tabs" x="30" y="370" width="1344" height="151" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31578946" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2373512" sideWeight="0.50877196" order="2" side_tool="true" content_ui="tabs" />
@@ -373,9 +372,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Unit Testing/test/sum-nums-mocha-tests.js" />
-    <entry file="file://$PROJECT_DIR$/Unit Testing/test/testing-example.js" />
-    <entry file="file://$PROJECT_DIR$/Unit Testing/test/sum-nums.js" />
     <entry file="file://$PROJECT_DIR$/Unit Testing/test/Check for Symmetry.js" />
     <entry file="file://$PROJECT_DIR$/Unit Testing/Check for Symmetry/test/symmetryTests.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -724,6 +720,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prototype Chain/balloons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prototype Chain/people.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prototype Chain/posts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
           <folding />
         </state>
       </provider>
