@@ -16,18 +16,7 @@
     <favorites_list name="JS Advanced" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="posts.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Prototype Chain/posts.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -46,12 +35,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Unit Testing/Deck of Cards.js" />
-        <option value="$PROJECT_DIR$/Unit Testing/sum-nums.js" />
-        <option value="$PROJECT_DIR$/Unit Testing/test/sum-nums-mocha-tests.js" />
-        <option value="$PROJECT_DIR$/Unit Testing/test/testing-example.js" />
-        <option value="$PROJECT_DIR$/Unit Testing/test/sum-nums.js" />
-        <option value="$PROJECT_DIR$/Unit Testing/test/Check for Symmetry.js" />
         <option value="$PROJECT_DIR$/Unit Testing/Symmetry.js" />
         <option value="$PROJECT_DIR$/Unit Testing/Check for Symmetry/symmetryTests.js" />
         <option value="$PROJECT_DIR$/Unit Testing/Check for Symmetry/test/symmetryTests.js" />
@@ -97,6 +80,12 @@
         <option value="$PROJECT_DIR$/Prototype Chain/balloons.js" />
         <option value="$PROJECT_DIR$/Prototype Chain/people.js" />
         <option value="$PROJECT_DIR$/Prototype Chain/posts.js" />
+        <option value="$PROJECT_DIR$/Prototype Chain/elemelons.js" />
+        <option value="$PROJECT_DIR$/Prototype Chain/console.js" />
+        <option value="$PROJECT_DIR$/Prototype Chain/CSharp Console/console.js" />
+        <option value="$PROJECT_DIR$/Prototype Chain/CSharp Console/test/consoleTests.js" />
+        <option value="$PROJECT_DIR$/Prototype Chain/computer.js" />
+        <option value="$PROJECT_DIR$/Prototype Chain/mixins.js" />
       </list>
     </option>
   </component>
@@ -136,7 +125,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,7 +142,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,19 +154,21 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Unit Testing/ArmageDOM/test/armageDOMTests.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Prototype Chain/CSharp Console/test/consoleTests.js" />
+    <property name="last.edited.regexp" value="Sample Text" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\JS Core\SoftUni-JS-Core\JS Advanced\Unit Testing\Check for Symmetry\test" />
-      <recent name="E:\JS Core\SoftUni-JS-Core\JS Advanced\Unit Testing\Check for Symmetry" />
-      <recent name="E:\JS Core\SoftUni-JS-Core\JS Advanced\jQuery Library" />
-      <recent name="E:\JS Core\SoftUni-JS-Core\JS Advanced\jQuery Library\Text from List" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\JS Core\SoftUni-JS-Core\JS Advanced\Object Composition\DOM Highlighter" />
       <recent name="E:\JS Core\SoftUni-JS-Core\JS Advanced\Object Composition\Sum" />
       <recent name="E:\JS Core\SoftUni-JS-Core\JS Advanced\jQuery Library" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JS Core\SoftUni-JS-Core\JS Advanced\Prototype Chain\CSharp Console" />
+      <recent name="E:\JS Core\SoftUni-JS-Core\JS Advanced\Unit Testing\Check for Symmetry\test" />
+      <recent name="E:\JS Core\SoftUni-JS-Core\JS Advanced\Unit Testing\Check for Symmetry" />
+      <recent name="E:\JS Core\SoftUni-JS-Core\JS Advanced\jQuery Library" />
+      <recent name="E:\JS Core\SoftUni-JS-Core\JS Advanced\jQuery Library\Text from List" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -192,13 +183,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.posts.js">
-    <configuration name="balloons.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="balloons.js" working-dir="$PROJECT_DIR$/Prototype Chain" />
-    <configuration name="classHierarchy.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="classHierarchy.js" working-dir="$PROJECT_DIR$/Prototype Chain" />
-    <configuration name="extendingPrototype.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="extendingPrototype.js" working-dir="$PROJECT_DIR$/Prototype Chain" />
-    <configuration name="inheritingToString.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="inheritingToString.js" working-dir="$PROJECT_DIR$/Prototype Chain" />
+  <component name="RunManager" selected="Node.js.computer.js">
+    <configuration name="computer.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="computer.js" working-dir="$PROJECT_DIR$/Prototype Chain" />
+    <configuration name="consoleTests.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="consoleTests.js" working-dir="$PROJECT_DIR$/Prototype Chain/CSharp Console/test" />
+    <configuration name="console.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="console.js" working-dir="$PROJECT_DIR$/Prototype Chain/CSharp Console" />
+    <configuration name="elemelons.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="elemelons.js" working-dir="$PROJECT_DIR$/Prototype Chain" />
     <configuration name="posts.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="posts.js" working-dir="$PROJECT_DIR$/Prototype Chain" />
-    <configuration name="ArmageDOM Tests" type="mocha-javascript-test-runner" factoryName="Mocha">
+    <configuration name="Console Tests" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <working-directory>$PROJECT_DIR$</working-directory>
@@ -207,23 +198,23 @@
       <ui>bdd</ui>
       <extra-mocha-options />
       <test-kind>TEST_FILE</test-kind>
-      <test-file>$PROJECT_DIR$/Unit Testing/ArmageDOM/test/armageDOMTests.js</test-file>
+      <test-file>$PROJECT_DIR$/Prototype Chain/CSharp Console/test/consoleTests.js</test-file>
     </configuration>
     <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Mocha.ArmageDOM Tests" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.inheritingToString.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.extendingPrototype.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.classHierarchy.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.balloons.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.posts.js" />
+      <item index="0" class="java.lang.String" itemvalue="Mocha.Console Tests" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.posts.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.elemelons.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.consoleTests.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.console.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.computer.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.posts.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.balloons.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.classHierarchy.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.extendingPrototype.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.inheritingToString.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.computer.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.consoleTests.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.console.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.elemelons.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.posts.js" />
       </list>
     </recent_temporary>
   </component>
@@ -264,43 +255,44 @@
       <workItem from="1520688576594" duration="4637000" />
       <workItem from="1520790244715" duration="8480000" />
       <workItem from="1520881501309" duration="8687000" />
+      <workItem from="1520964867335" duration="10019000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ArmageDOM_Tests - 2018.03.07 at 21h 10m 03s.xml">
-      <configuration name="ArmageDOM Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Console_Tests - 2018.03.13 at 21h 37m 28s.xml">
+      <configuration name="Console Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="ArmageDOM_Tests - 2018.03.07 at 21h 11m 01s.xml">
-      <configuration name="ArmageDOM Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Console_Tests - 2018.03.13 at 21h 39m 29s.xml">
+      <configuration name="Console Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="ArmageDOM_Tests - 2018.03.07 at 21h 13m 26s.xml">
-      <configuration name="ArmageDOM Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Console_Tests - 2018.03.13 at 21h 48m 38s.xml">
+      <configuration name="Console Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="ArmageDOM_Tests - 2018.03.07 at 21h 22m 29s.xml">
-      <configuration name="ArmageDOM Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Console_Tests - 2018.03.13 at 21h 49m 23s.xml">
+      <configuration name="Console Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="ArmageDOM_Tests - 2018.03.07 at 21h 24m 01s.xml">
-      <configuration name="ArmageDOM Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Console_Tests - 2018.03.13 at 21h 52m 46s.xml">
+      <configuration name="Console Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="ArmageDOM_Tests - 2018.03.07 at 21h 24m 53s.xml">
-      <configuration name="ArmageDOM Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Console_Tests - 2018.03.13 at 21h 53m 33s.xml">
+      <configuration name="Console Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="ArmageDOM_Tests - 2018.03.07 at 21h 26m 29s.xml">
-      <configuration name="ArmageDOM Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Console_Tests - 2018.03.13 at 21h 53m 57s.xml">
+      <configuration name="Console Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="ArmageDOM_Tests - 2018.03.07 at 21h 27m 27s.xml">
-      <configuration name="ArmageDOM Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Console_Tests - 2018.03.13 at 21h 54m 07s.xml">
+      <configuration name="Console Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="ArmageDOM_Tests - 2018.03.07 at 21h 27m 54s.xml">
-      <configuration name="ArmageDOM Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Console_Tests - 2018.03.13 at 21h 55m 46s.xml">
+      <configuration name="Console Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="ArmageDOM_Tests - 2018.03.07 at 21h 28m 19s.xml">
-      <configuration name="ArmageDOM Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Console_Tests - 2018.03.13 at 21h 58m 01s.xml">
+      <configuration name="Console Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="185563000" />
+    <option name="totallyTimeSpent" value="195582000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -319,11 +311,11 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23848684" sideWeight="0.5089286" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.054276317" sideWeight="0.49107143" order="2" side_tool="false" content_ui="tabs" x="30" y="370" width="1344" height="151" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2236842" sideWeight="0.49107143" order="2" side_tool="false" content_ui="tabs" x="30" y="370" width="1344" height="151" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31578946" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2373512" sideWeight="0.50877196" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32401314" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3223684" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -367,40 +359,11 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="21" />
+      <option name="time" value="23" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Unit Testing/test/Check for Symmetry.js" />
-    <entry file="file://$PROJECT_DIR$/Unit Testing/Check for Symmetry/test/symmetryTests.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="52" lean-forward="false" selection-start-line="0" selection-start-column="52" selection-end-line="0" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit Testing/Check for Symmetry/symmetry.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit Testing/Sum Numbers/test/sumNumsTests.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="36" lean-forward="false" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit Testing/Sum Numbers/sumNums.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Unit Testing/RGB to Hex/rgbToHex.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -649,7 +612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -688,7 +650,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -742,8 +703,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Prototype Chain/posts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        <state relative-caret-position="170">
+          <caret line="13" column="52" lean-forward="true" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prototype Chain/elemelons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-536">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prototype Chain/CSharp Console/test/consoleTests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="11" lean-forward="true" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prototype Chain/CSharp Console/console.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prototype Chain/mixins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prototype Chain/computer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding />
         </state>
       </provider>
