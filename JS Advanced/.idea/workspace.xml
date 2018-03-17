@@ -17,11 +17,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exam Preparation/Exam - 23 July 2017/Contacts Builder/contact.html">
+      <file leaf-file-name="addSwapShiftLeftRight.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exam Preparation/Exam - 13 Nov 2016/Add  Swap  Shift Left  Right in List/addSwapShiftLeftRight.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="219">
+              <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addSwapShiftLeftRightTests.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exam Preparation/Exam - 13 Nov 2016/Add  Swap  Shift Left  Right in List/test/addSwapShiftLeftRightTests.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="56" column="20" lean-forward="true" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -32,9 +42,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -46,32 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Unit Testing/requestValidator.js" />
-        <option value="$PROJECT_DIR$/Unit Testing/Even Or Odd/evenOrOdd.js" />
-        <option value="$PROJECT_DIR$/Unit Testing/Even Or Odd/test/evenOrOddTests.js" />
-        <option value="$PROJECT_DIR$/Unit Testing/Char Lookup/charLookup.js" />
-        <option value="$PROJECT_DIR$/Unit Testing/Char Lookup/test/charLookupTests.js" />
-        <option value="$PROJECT_DIR$/Unit Testing/Math Enforcer/mathEnforcer.js" />
-        <option value="$PROJECT_DIR$/Unit Testing/Math Enforcer/test/mathEnforcerTests.js" />
-        <option value="$PROJECT_DIR$/Unit Testing/Shared Object/sharedObject.js" />
-        <option value="$PROJECT_DIR$/Unit Testing/Shared Object/test/sharedObjectTests.js" />
-        <option value="$PROJECT_DIR$/Unit Testing/ArmageDOM/armageDOM.js" />
-        <option value="$PROJECT_DIR$/Unit Testing/ArmageDOM/test/armageDOMTests.js" />
-        <option value="$PROJECT_DIR$/Classes and Members/rectangleClass.js" />
-        <option value="$PROJECT_DIR$/Classes and Members/personClass.js" />
-        <option value="$PROJECT_DIR$/Classes and Members/getPersons.js" />
-        <option value="$PROJECT_DIR$/Classes and Members/circle.js" />
-        <option value="$PROJECT_DIR$/Classes and Members/pointDistance.js" />
-        <option value="$PROJECT_DIR$/Classes and Members/cards.js" />
-        <option value="$PROJECT_DIR$/Classes and Members/dataClass.js" />
-        <option value="$PROJECT_DIR$/Classes and Members/tickets.js" />
-        <option value="$PROJECT_DIR$/Classes and Members/Unity.js" />
-        <option value="$PROJECT_DIR$/Classes and Members/unity.js" />
-        <option value="$PROJECT_DIR$/Classes and Members/lengthLimit.js" />
-        <option value="$PROJECT_DIR$/Classes and Members/sortedList.js" />
-        <option value="$PROJECT_DIR$/Classes and Members/instanceValidation.js" />
-        <option value="$PROJECT_DIR$/Classes and Members/extensibleClass.js" />
-        <option value="$PROJECT_DIR$/Classes and Members/View Model/viewModel.html" />
         <option value="$PROJECT_DIR$/Classes and Members/View Model/viewModel.js" />
         <option value="$PROJECT_DIR$/Classes and Members/Custom Form/form.html" />
         <option value="$PROJECT_DIR$/Classes and Members/Custom Form/form.js" />
@@ -96,7 +80,33 @@
         <option value="$PROJECT_DIR$/Exam Preparation/Exam - 23 July 2017/Sumator Class/test/sumatorTests.js" />
         <option value="$PROJECT_DIR$/Exam Preparation/Exam - 23 July 2017/task.js" />
         <option value="$PROJECT_DIR$/Exam Preparation/Exam - 23 July 2017/Contacts Builder/contact.css" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Exam - 19 Dec 2016/moveTowns.html" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Exam - 19 Dec 2016/Move Towns/moveTowns.css" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Exam - 19 Dec 2016/Move Towns/moveTowns.js" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Exam - 19 Dec 2016/Move Towns/moveTowns.html" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Exam - 19 Dec 2016/Add Left  Right  Clear in List/listFunctions.js" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Exam - 19 Dec 2016/player.js" />
         <option value="$PROJECT_DIR$/Exam Preparation/Exam - 23 July 2017/Contacts Builder/contact.html" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Exam - 23 July 2017/Contacts Builder/contactsBuilder.js" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Exam - 19 Dec 2016/List Builder/listBuilder.css" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Exam - 19 Dec 2016/List Builder/listBuilder.js" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Exam - 19 Dec 2016/List Builder/listBuilder.html" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Sample Exam - 7 Nov 2016/Delete Towns by Name/deleteTownsByName.css" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Sample Exam - 7 Nov 2016/Delete Towns by Name/deleteTownsByName.js" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Sample Exam - 7 Nov 2016/Delete Towns by Name/deleteTownsByName.html" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Sample Exam - 7 Nov 2016/Add Delete in List/addDeleteInList.js" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Exam - 19 Dec 2016/trainingCourse.js" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Sample Exam - 7 Nov 2016/Table Builder/tableBuilder.css" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Sample Exam - 7 Nov 2016/Table Builder/tableBuilder.js" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Sample Exam - 7 Nov 2016/Table Builder/tableBuilder.html" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Exam - 19 Dec 2016/Add Left  Right  Clear in List/test/listFunctionsTests.js" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Exam - 13 Nov 2016/Add Remove Towns/addRemoveTowns.css" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Exam - 13 Nov 2016/Add Remove Towns/addRemoveTowns.html" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Exam - 13 Nov 2016/Add Remove Towns/addRemoveTowns.js" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Exam - 13 Nov 2016/Add  Swap  Shift Left  Right in List/addSwapShiftLeftRight.js" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Sample Exam - 7 Nov 2016/Add Delete in List/test/addDeleteInListTests.js" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Exam - 13 Nov 2016/Add  Swap  Shift Left  Right in List/test/addSwapShiftLeftRightTests.js" />
+        <option value="$PROJECT_DIR$/Exam Preparation/Sample Exam - 7 Nov 2016/trainingCourse.js" />
       </list>
     </option>
   </component>
@@ -136,6 +146,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,21 +163,67 @@
               <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
               <item name="Exam Preparation" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam - 23 July 2017" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam - 13 Nov 2016" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam Preparation" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam - 13 Nov 2016" type="462c0819:PsiDirectoryNode" />
+              <item name="Add  Swap  Shift Left  Right in List" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam Preparation" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam - 13 Nov 2016" type="462c0819:PsiDirectoryNode" />
+              <item name="Add  Swap  Shift Left  Right in List" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam Preparation" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam - 19 Dec 2016" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam Preparation" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam - 19 Dec 2016" type="462c0819:PsiDirectoryNode" />
+              <item name="List Builder" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
               <item name="Exam Preparation" type="462c0819:PsiDirectoryNode" />
               <item name="Exam - 23 July 2017" type="462c0819:PsiDirectoryNode" />
-              <item name="Contacts Builder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam Preparation" type="462c0819:PsiDirectoryNode" />
+              <item name="Sample Exam - 7 Nov 2016" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam Preparation" type="462c0819:PsiDirectoryNode" />
+              <item name="Sample Exam - 7 Nov 2016" type="462c0819:PsiDirectoryNode" />
+              <item name="Add Delete in List" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam Preparation" type="462c0819:PsiDirectoryNode" />
+              <item name="Sample Exam - 7 Nov 2016" type="462c0819:PsiDirectoryNode" />
+              <item name="Table Builder" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -178,21 +235,21 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exam Preparation/Exam - 23 July 2017/Sumator Class/test/sumatorTests.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exam Preparation/Exam - 13 Nov 2016/Add  Swap  Shift Left  Right in List/test/addSwapShiftLeftRightTests.js" />
     <property name="last.edited.regexp" value="Sample Text" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JS Core\SoftUni-JS-Core\JS Advanced\Exam Preparation\Sample Exam - 7 Nov 2016" />
+      <recent name="E:\JS Core\SoftUni-JS-Core\JS Advanced\Exam Preparation\Exam - 19 Dec 2016\Move Towns" />
+      <recent name="E:\JS Core\SoftUni-JS-Core\JS Advanced\Prototype Chain\CSharp Console" />
+      <recent name="E:\JS Core\SoftUni-JS-Core\JS Advanced\Unit Testing\Check for Symmetry\test" />
+      <recent name="E:\JS Core\SoftUni-JS-Core\JS Advanced\Unit Testing\Check for Symmetry" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\JS Core\SoftUni-JS-Core\JS Advanced\Object Composition\DOM Highlighter" />
       <recent name="E:\JS Core\SoftUni-JS-Core\JS Advanced\Object Composition\Sum" />
       <recent name="E:\JS Core\SoftUni-JS-Core\JS Advanced\jQuery Library" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\JS Core\SoftUni-JS-Core\JS Advanced\Prototype Chain\CSharp Console" />
-      <recent name="E:\JS Core\SoftUni-JS-Core\JS Advanced\Unit Testing\Check for Symmetry\test" />
-      <recent name="E:\JS Core\SoftUni-JS-Core\JS Advanced\Unit Testing\Check for Symmetry" />
-      <recent name="E:\JS Core\SoftUni-JS-Core\JS Advanced\jQuery Library" />
-      <recent name="E:\JS Core\SoftUni-JS-Core\JS Advanced\jQuery Library\Text from List" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -207,13 +264,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.task.js">
-    <configuration name="selectPrint.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS Advanced/Exam Preparation/Exam - 23 July 2017/Select and Print/selectPrint.html" />
-    <configuration name="computer.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="computer.js" working-dir="$PROJECT_DIR$/Prototype Chain" />
-    <configuration name="consoleTests.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="consoleTests.js" working-dir="$PROJECT_DIR$/Prototype Chain/CSharp Console/test" />
-    <configuration name="sumatorTests.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="sumatorTests.js" working-dir="$PROJECT_DIR$/Exam Preparation/Exam - 23 July 2017/Sumator Class/test" />
-    <configuration name="task.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="task.js" working-dir="$PROJECT_DIR$/Exam Preparation/Exam - 23 July 2017" />
-    <configuration name="Sumator Tests" type="mocha-javascript-test-runner" factoryName="Mocha">
+  <component name="RunManager" selected="Node.js.trainingCourse.js">
+    <configuration name="addRemoveTowns.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS Advanced/Exam Preparation/Exam - 13 Nov 2016/Add Remove Towns/addRemoveTowns.html" />
+    <configuration name="tableBuilder.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS Advanced/Exam Preparation/Sample Exam - 7 Nov 2016/Table Builder/tableBuilder.html" />
+    <configuration name="addDeleteInListTests.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="addDeleteInListTests.js" working-dir="$PROJECT_DIR$/Exam Preparation/Sample Exam - 7 Nov 2016/Add Delete in List/test" />
+    <configuration name="addSwapShiftLeftRightTests.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="addSwapShiftLeftRightTests.js" working-dir="$PROJECT_DIR$/Exam Preparation/Exam - 13 Nov 2016/Add  Swap  Shift Left  Right in List/test" />
+    <configuration name="trainingCourse.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/Exam Preparation/Sample Exam - 7 Nov 2016/trainingCourse.js" working-dir="$PROJECT_DIR$/Exam Preparation/Exam - 19 Dec 2016" />
+    <configuration name="Add Swap Shif In List Tests" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <working-directory>$PROJECT_DIR$</working-directory>
@@ -222,23 +279,23 @@
       <ui>bdd</ui>
       <extra-mocha-options />
       <test-kind>TEST_FILE</test-kind>
-      <test-file>$PROJECT_DIR$/Exam Preparation/Exam - 23 July 2017/Sumator Class/test/sumatorTests.js</test-file>
+      <test-file>$PROJECT_DIR$/Exam Preparation/Exam - 13 Nov 2016/Add  Swap  Shift Left  Right in List/test/addSwapShiftLeftRightTests.js</test-file>
     </configuration>
     <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Mocha.Sumator Tests" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.selectPrint.html" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.consoleTests.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.computer.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.sumatorTests.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.task.js" />
+      <item index="0" class="java.lang.String" itemvalue="Mocha.Add Swap Shif In List Tests" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.tableBuilder.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.addRemoveTowns.html" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.addDeleteInListTests.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.trainingCourse.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.addSwapShiftLeftRightTests.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.task.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.sumatorTests.js" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.selectPrint.html" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.computer.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.consoleTests.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.trainingCourse.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.addSwapShiftLeftRightTests.js" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.addRemoveTowns.html" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.addDeleteInListTests.js" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.tableBuilder.html" />
       </list>
     </recent_temporary>
   </component>
@@ -281,43 +338,45 @@
       <workItem from="1520881501309" duration="8687000" />
       <workItem from="1520964867335" duration="10056000" />
       <workItem from="1521051389847" duration="10287000" />
+      <workItem from="1521200243507" duration="1014000" />
+      <workItem from="1521201638112" duration="32774000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Sumator_Tests - 2018.03.14 at 21h 09m 48s.xml">
-      <configuration name="Sumator Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Add_Swap_Shif_In_List_Tests - 2018.03.17 at 21h 17m 38s.xml">
+      <configuration name="Add Swap Shif In List Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Sumator_Tests - 2018.03.14 at 21h 11m 15s.xml">
-      <configuration name="Sumator Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Add_Swap_Shif_In_List_Tests - 2018.03.17 at 21h 18m 24s.xml">
+      <configuration name="Add Swap Shif In List Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Sumator_Tests - 2018.03.14 at 21h 12m 41s.xml">
-      <configuration name="Sumator Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Add_Swap_Shif_In_List_Tests - 2018.03.17 at 21h 19m 20s.xml">
+      <configuration name="Add Swap Shif In List Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Sumator_Tests - 2018.03.14 at 21h 12m 57s.xml">
-      <configuration name="Sumator Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Add_Swap_Shif_In_List_Tests - 2018.03.17 at 21h 21m 30s.xml">
+      <configuration name="Add Swap Shif In List Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Sumator_Tests - 2018.03.14 at 21h 16m 39s.xml">
-      <configuration name="Sumator Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Add_Swap_Shif_In_List_Tests - 2018.03.17 at 21h 28m 31s.xml">
+      <configuration name="Add Swap Shif In List Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Sumator_Tests - 2018.03.14 at 21h 19m 17s.xml">
-      <configuration name="Sumator Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Add_Swap_Shif_In_List_Tests - 2018.03.17 at 21h 29m 43s.xml">
+      <configuration name="Add Swap Shif In List Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Sumator_Tests - 2018.03.14 at 21h 26m 26s.xml">
-      <configuration name="Sumator Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Add_Swap_Shif_In_List_Tests - 2018.03.17 at 21h 35m 11s.xml">
+      <configuration name="Add Swap Shif In List Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Sumator_Tests - 2018.03.14 at 21h 27m 39s.xml">
-      <configuration name="Sumator Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Add_Swap_Shif_In_List_Tests - 2018.03.17 at 21h 35m 14s.xml">
+      <configuration name="Add Swap Shif In List Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Sumator_Tests - 2018.03.14 at 21h 29m 38s.xml">
-      <configuration name="Sumator Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Add_Swap_Shif_In_List_Tests - 2018.03.17 at 21h 35m 54s.xml">
+      <configuration name="Add Swap Shif In List Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Sumator_Tests - 2018.03.14 at 21h 35m 19s.xml">
-      <configuration name="Sumator Tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Add_Swap_Shif_In_List_Tests - 2018.03.17 at 23h 40m 59s.xml">
+      <configuration name="Add Swap Shif In List Tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="205906000" />
+    <option name="totallyTimeSpent" value="239694000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -331,22 +390,22 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19270833" sideWeight="0.49122807" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2544643" sideWeight="0.49122807" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.49702382" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23848684" sideWeight="0.5089286" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17269737" sideWeight="0.49107143" order="2" side_tool="false" content_ui="tabs" x="30" y="370" width="1344" height="151" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7615132" sideWeight="0.49107143" order="2" side_tool="false" content_ui="tabs" x="30" y="370" width="1344" height="151" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31578946" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2373512" sideWeight="0.50877196" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3223684" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18842976" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -357,16 +416,16 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23848684" sideWeight="0.5089286" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2236842" sideWeight="0.49107143" order="2" side_tool="false" content_ui="tabs" x="30" y="370" width="1344" height="151" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22532895" sideWeight="0.49107143" order="2" side_tool="false" content_ui="tabs" x="30" y="370" width="1344" height="151" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31578946" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2373512" sideWeight="0.49122807" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2544643" sideWeight="0.49122807" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2373512" sideWeight="0.50877196" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3223684" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18842976" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -384,199 +443,11 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="23" />
+      <option name="time" value="26" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Unit Testing/Sub Sum.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jQuery Library/DOM Search/dom-search.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" column="51" lean-forward="true" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jQuery Library/DOM Search/dom-search.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jQuery Library/DOM Search/dom-search.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit Testing/Add and Subtract/аddSubtract.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit Testing/Add and Subtract/test/addSubtractTests.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="40" column="31" lean-forward="true" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit Testing/Shared Object/sharedObject.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="25" column="6" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit Testing/Shared Object/test/sharedObjectTests.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit Testing/ArmageDOM/test/armageDOMTests.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="40" column="48" lean-forward="false" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit Testing/ArmageDOM/armageDOM.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classes and Members/rectangleClass.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classes and Members/getPersons.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classes and Members/personClass.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="64" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classes and Members/circle.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classes and Members/pointDistance.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classes and Members/cards.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="711">
-          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classes and Members/dataClass.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classes and Members/tickets.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classes and Members/unity.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classes and Members/lengthLimit.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object Composition/Object Inheritance.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-401">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object Composition/Sorted List.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="13" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classes and Members/sortedList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classes and Members/instanceValidation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="65" column="32" lean-forward="false" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classes and Members/extensibleClass.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Object Composition/Extensible Object.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -595,7 +466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -603,7 +473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="526">
           <caret line="91" column="18" lean-forward="false" selection-start-line="91" selection-start-column="18" selection-end-line="91" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -618,7 +487,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="13" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -626,7 +494,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -634,7 +501,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -642,7 +508,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -650,7 +515,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -658,7 +522,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -666,7 +529,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="13" column="52" lean-forward="true" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -674,7 +536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-536">
           <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -703,7 +564,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -711,6 +571,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Exam - 23 July 2017/Sumator Class/test.js" />
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Exam - 23 July 2017/Sumator Class/sumator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Exam - 23 July 2017/task.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="59" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Exam - 23 July 2017/Contacts Builder/contact.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Exam - 19 Dec 2016/Move Towns/moveTowns.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -719,10 +608,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-          <folding>
-            <element signature="e#542#554#1" expanded="false" />
-            <element signature="e#612#623#1" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -734,10 +620,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exam Preparation/Exam - 23 July 2017/Sumator Class/test.js">
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Exam - 19 Dec 2016/Move Towns/moveTowns.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="272">
+          <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <element signature="e#545#554#1" expanded="false" />
+            <element signature="e#608#619#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Exam - 19 Dec 2016/Move Towns/moveTowns.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -750,26 +647,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exam Preparation/Exam - 23 July 2017/Sumator Class/sumator.js">
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Exam - 19 Dec 2016/player.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exam Preparation/Exam - 23 July 2017/task.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="59" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exam Preparation/Exam - 23 July 2017/Contacts Builder/contact.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        <state relative-caret-position="357">
+          <caret line="21" column="41" lean-forward="false" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
           <folding />
         </state>
       </provider>
@@ -777,7 +658,180 @@
     <entry file="file://$PROJECT_DIR$/Exam Preparation/Exam - 23 July 2017/Contacts Builder/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Exam - 23 July 2017/Contacts Builder/contactsBuilder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="38" column="50" lean-forward="false" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
+          <folding>
+            <marker date="1521212813744" expanded="true" signature="752:1674" ph="..." />
+            <marker date="1521212813744" expanded="true" signature="847:854" ph="..." />
+            <marker date="1521212813744" expanded="true" signature="1020:1027" ph="☎" />
+            <marker date="1521212813744" expanded="true" signature="1081:1088" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Exam - 19 Dec 2016/List Builder/listBuilder.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jQuery Library/Countries Table/countriesTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Exam - 19 Dec 2016/List Builder/listBuilder.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Sample Exam - 7 Nov 2016/Delete Towns by Name/deleteTownsByName.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Sample Exam - 7 Nov 2016/Delete Towns by Name/deleteTownsByName.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Sample Exam - 7 Nov 2016/Delete Towns by Name/deleteTownsByName.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Sample Exam - 7 Nov 2016/Table Builder/tableBuilder.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Sample Exam - 7 Nov 2016/Table Builder/tableBuilder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="1" lean-forward="false" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Exam - 19 Dec 2016/Add Left  Right  Clear in List/listFunctions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Exam - 19 Dec 2016/Add Left  Right  Clear in List/test/listFunctionsTests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="59" lean-forward="false" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Sample Exam - 7 Nov 2016/Add Delete in List/addDeleteInList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Exam - 13 Nov 2016/Add Remove Towns/addRemoveTowns.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Exam - 13 Nov 2016/Add Remove Towns/addRemoveTowns.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Exam - 13 Nov 2016/Add Remove Towns/addRemoveTowns.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Sample Exam - 7 Nov 2016/Add Delete in List/test/addDeleteInListTests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="3" lean-forward="false" selection-start-line="44" selection-start-column="3" selection-end-line="44" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Exam - 13 Nov 2016/Add  Swap  Shift Left  Right in List/addSwapShiftLeftRight.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Sample Exam - 7 Nov 2016/Table Builder/tableBuilder.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Sample Exam - 7 Nov 2016/trainingCourse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Exam - 19 Dec 2016/List Builder/listBuilder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Preparation/Exam - 13 Nov 2016/Add  Swap  Shift Left  Right in List/test/addSwapShiftLeftRightTests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="56" column="20" lean-forward="true" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
           <folding />
         </state>
       </provider>
