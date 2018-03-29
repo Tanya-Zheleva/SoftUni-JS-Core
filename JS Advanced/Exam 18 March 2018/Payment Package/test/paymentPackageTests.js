@@ -55,6 +55,11 @@ describe('Payment Package Tests', function () {
         p.active = false;
         expect(p.active).to.equal(false);
     });
+    it('should work correctly with value 0', function () {
+        let p = new PaymentPackage('Test', 0);
+        p.value = 0;
+        expect(p.value).to.equal(0);
+    });
     it('toString should work', function () {
         let expectedString = 'Package: Book\n';
         expectedString += '- Value (excl. VAT): 1500\n';
