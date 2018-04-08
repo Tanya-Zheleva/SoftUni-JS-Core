@@ -20,5 +20,5 @@ function attachEvents() {
     $(document).on({
         ajaxStart: function() { $("#loadingBox").show() },
         ajaxStop: function() { $("#loadingBox").hide() }
-    })
+    });
 }

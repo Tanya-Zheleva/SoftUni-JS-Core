@@ -1,24 +1,32 @@
 const kinveyBaseUrl = "https://baas.kinvey.com/";
 const appKey = 'kid_rJxJ0Kfif';
 const appSecret = 'cea443eaef974f0f81899dd640d2964b';
-const headers = {'Authorization': "Basic " + btoa(appKey + ":" + appSecret)};
+
+function requester(method, endpoint, authorization, data) {
+    function getAuthorization(type) {
+        return type === 'basic'
+            ? 'Basic ' + btoa(appKey + ":" + appSecret)
+            : 'Kinvey ' + sessionStorage.getItem('authToken');
+    }
+
+    return $.ajax({
+        url: kinveyBaseUrl + endpoint,
+        method: method,
+        headers: {'Authorization': getAuthorization(authorization)},
+        data: data
+    });
+}
 
 function registerUser() {
     let regForm = $('#formRegister');
+    const endpoint = 'user/' + appKey + '/';
     let data = {
         username: regForm.find('input[name=username]').val(),
         password: regForm.find('input[name=passwd]').val()
     };
 
-    $.ajax({
-        url: kinveyBaseUrl + 'user/' + appKey + '/',
-        method: 'POST',
-        headers: headers,
-        data: data
-    })
-        .then((res) => {
-            signInUser(res, 'Registration successful.');
-        })
+    requester('POST', endpoint, 'basic', data)
+        .then((res) => signInUser(res, 'Registration successful.'))
         .catch(handleAjaxError);
 }
 
@@ -29,12 +37,9 @@ function loginUser() {
         password: logForm.find('input[name=passwd]').val()
     };
 
-    $.ajax({
-        url: kinveyBaseUrl + 'user/' + appKey + '/login',
-        method: 'POST',
-        data: data,
-        headers: headers
-    })
+    const endpoint = 'user/' + appKey + '/login';
+
+    requester('POST', endpoint, 'basic', data)
         .then((res) => signInUser(res, 'Login successful.'))
         .catch(handleAjaxError);
 }
@@ -47,13 +52,11 @@ function logoutUser() {
     showInfo('Logout successful.');
 }
 
-function createAd() {
+function createAd() { //Use ',' for decimal separator
     let createForm = $('#formCreateAd');
-    const kinveyAuthHeaders = {
-        'Authorization': 'Kinvey ' + sessionStorage.getItem('authToken')
-    };
+    const publisher = sessionStorage.getItem('username');
+    const endpoint = 'appdata/' + appKey + '/ads';
 
-    let publisher = sessionStorage.getItem('username');
     let data = {
         title: createForm.find('input[name=title]').val(),
         description: createForm.find('textarea[name=description]').val(),
@@ -64,12 +67,7 @@ function createAd() {
         views: 1
     };
 
-    $.ajax({
-        url: kinveyBaseUrl + 'appdata/' + appKey + '/ads',
-        method: 'POST',
-        headers: kinveyAuthHeaders,
-        data: data
-    })
+    requester('POST', endpoint, 'kinvey', data)
         .then((res) => {
             showInfo('Ad created.');
             listAds();
@@ -78,15 +76,9 @@ function createAd() {
 }
 
 function listAds() {
-    const kinveyAuthHeaders = {
-        'Authorization': 'Kinvey ' + sessionStorage.getItem('authToken')
-    };
+    const endpoint = 'appdata/' + appKey + '/ads';
 
-    $.ajax({
-        url: kinveyBaseUrl + 'appdata/' + appKey + '/ads',
-        method: 'GET',
-        headers: kinveyAuthHeaders
-    })
+    requester('GET', endpoint, 'kinvey')
         .then((res) => {
             showListAdsView();
             displayAds(res.reverse());
@@ -95,17 +87,23 @@ function listAds() {
 }
 
 function displayAds(ads) {
-    let table = $('#ads').find('> table');
+    let table = $('<table>');
+    $('#ads').empty();
 
-    table.find('tr').each((index, element) => {
-        if (index > 0) {
-            $(element).remove();
-        }
-    });
+    let headerRow = $('<tr>');
+    headerRow.append($('<th>').text('Title'),
+        $('<th>').text('Publisher'),
+        $('<th>').text('Description'),
+        $('<th>').text('Price'),
+        $('<th>').text('Date Published'),
+        $('<th>').text('Actions'));
+
+    table.append(headerRow);
+    $('#ads').append(table);
 
     for (let ad of ads) {
         let tr = $('<tr>');
-        let maxChars = 30;
+        const maxChars = 30;
 
         tr.append($('<td>').text(ad.title));
         tr.append($('<td>').text(ad.publisher));
@@ -118,19 +116,12 @@ function displayAds(ads) {
 
         tr.append($('<td>').text(Number(ad.price).toFixed(2)));
         tr.append($('<td>').text(ad.date));
-
         tr.append($('<td>')
-            .append($('<a href="#">[Read more]</a>').on('click', function () {
-                displaySingleAd(ad);
-            })));
+            .append($('<a href="#">[Read more]</a>').on('click', () => displaySingleAd(ad))));
 
         if (ad._acl.creator === sessionStorage['userId']) {
-            tr.find('td:last-child').append($('<a href="#">[Delete]</a>').on('click', function () {
-                    deleteAd(ad);
-                }))
-                .append($('<a href="#">[Edit]</a>').on('click', function () {
-                    loadAdForEdit(ad);
-                }));
+            tr.find('td:last-child').append($('<a href="#">[Delete]</a>').on('click', () => deleteAd(ad)))
+                .append($('<a href="#">[Edit]</a>').on('click',() => loadAdForEdit(ad)));
         }
 
         table.append(tr);
@@ -164,9 +155,7 @@ function displaySingleAd(ad) {
 }
 
 function updateViews(ad) {
-    const kinveyAuthHeaders = {
-        'Authorization': 'Kinvey ' + sessionStorage.getItem('authToken')
-    };
+    const endpoint = 'appdata/' + appKey + '/ads/' + ad._id;
 
     let data = {
         title: ad.title,
@@ -178,20 +167,13 @@ function updateViews(ad) {
         image: ad.image
     };
 
-    $.ajax({
-        url: kinveyBaseUrl + 'appdata/' + appKey + '/ads/' + ad._id,
-        method: 'PUT',
-        headers: kinveyAuthHeaders,
-        data: data
-    })
-       // .catch(handleAjaxError);
+    requester('PUT', endpoint, 'kinvey', data);
+    // .catch(handleAjaxError);
 }
 
-function editAd() {
+function editAd() { //Use ',' for decimal separator
     let editForm = $('#formEditAd');
-    const kinveyAuthHeaders = {
-        'Authorization': 'Kinvey ' + sessionStorage.getItem('authToken')
-    };
+    const endpoint = 'appdata/' + appKey + '/ads/' + editForm.find('input[name=id]').val();
 
     let data = {
         title: editForm.find('input[name=title]').val(),
@@ -203,13 +185,8 @@ function editAd() {
         views: editForm.find('input[name=views]').val()
     };
 
-    $.ajax({
-        url: kinveyBaseUrl + 'appdata/' + appKey + '/ads/' + editForm.find('input[name=id]').val(),
-        method: 'PUT',
-        headers: kinveyAuthHeaders,
-        data: data
-    })
-        .then((res)=> {
+    requester('PUT', endpoint, 'kinvey', data)
+        .then((res) => {
             showInfo('Ad edited.');
             listAds();
         })
@@ -217,15 +194,9 @@ function editAd() {
 }
 
 function deleteAd(ad) {
-    const kinveyAuthHeaders = {
-        'Authorization': 'Kinvey ' + sessionStorage.getItem('authToken')
-    };
+    const endpoint = 'appdata/' + appKey + '/ads/' + ad._id;
 
-    $.ajax({
-        url: kinveyBaseUrl + 'appdata/' + appKey + '/ads/' + ad._id,
-        method: 'DELETE',
-        headers: kinveyAuthHeaders
-    })
+    requester('DELETE', endpoint, 'kinvey')
         .then((res) => {
             showInfo('Ad deleted.');
             listAds();
@@ -233,7 +204,8 @@ function deleteAd(ad) {
         .catch(handleAjaxError);
 }
 
-function loadAdForEdit(ad) {
+async function loadAdForEdit(ad) {
+    await showEditAdView();
     let editForm = $('#formEditAd');
 
     editForm.find('input[name=id]').val(ad._id);
@@ -244,8 +216,6 @@ function loadAdForEdit(ad) {
     editForm.find('input[name=price]').val(ad.price);
     editForm.find('input[name=datePublished]').val(ad.date);
     editForm.find('input[name=imageUrl]').val(ad.image);
-
-    showEditAdView();
 }
 
 function signInUser(res, message) {
